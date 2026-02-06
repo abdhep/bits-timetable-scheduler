@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bits-timetable-scheduler/static/css/main.2637f3f9.css",
+    "main.js": "/bits-timetable-scheduler/static/js/main.96dae8b8.js",
+    "static/js/453.b4806072.chunk.js": "/bits-timetable-scheduler/static/js/453.b4806072.chunk.js",
+    "index.html": "/bits-timetable-scheduler/index.html",
+    "main.2637f3f9.css.map": "/bits-timetable-scheduler/static/css/main.2637f3f9.css.map",
+    "main.96dae8b8.js.map": "/bits-timetable-scheduler/static/js/main.96dae8b8.js.map",
+    "453.b4806072.chunk.js.map": "/bits-timetable-scheduler/static/js/453.b4806072.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2637f3f9.css",
+    "static/js/main.96dae8b8.js"
+  ]
+}
